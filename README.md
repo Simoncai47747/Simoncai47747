@@ -1,4 +1,4 @@
-Hi, I’m Simon an aspiring full-stack developer
+Hi, I’m Simon, an aspiring full-stack developer
 
 Email: s53cai@uwaterloo.ca 
 
