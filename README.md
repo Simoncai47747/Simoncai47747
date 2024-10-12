@@ -11,7 +11,6 @@ I’m currently learning WordPress plugin development
 Starting the odin project and will be able to put it in my portfolio soon
 
 Some of My Best Projects
-
 ------------------------
 
 https://www.seaspraychineserestaurant.com/
